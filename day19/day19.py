@@ -123,3 +123,4 @@ print(check_text_similarity("melina_trump_speech.txt","michelle_obama_speech.txt
 # a) Count the number of lines containing python or Python
 # b) Count the number lines containig JavaScript or Javascript
 # c) Count the number lines containig Java and not JavaScript
+    
